@@ -1,4 +1,4 @@
-# 一个月SQL学习
+# 一个月SQL学习 ( https://github.com/georgezhang/SQLTraining )
 ## JOIN
 ---------------
 # TABLE 1       TABLE 2
