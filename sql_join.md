@@ -1,5 +1,12 @@
 # 一个月SQL学习 ( https://github.com/georgezhang/SQLTraining )
-## JOIN
+## SQL JOIN
+
+SELECT Table1.key1, Table1.key2, Table2.value1, Table2.value1 
+FROM Table1, Table2 
+WHERE Table1.key1 = Table2.key1
+
+排列“组合“
+
 ---------------
 # TABLE 1       TABLE 2
 key value       key value
